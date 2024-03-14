@@ -98,6 +98,7 @@ pre[class*="language-"] {
     color : #a6e22e;
 }
 
+
 .token.operator,
 .token.entity,
 .token.url,
@@ -257,7 +258,14 @@ pre[class*="language-"] {
     pointer-events : none;
     z-index        : 10;
 }
-
+.outlined-text {
+    color: white; /* Text color */
+    text-shadow: 
+        -1px -1px 0 #282828,  
+        1px -1px 0 #282828,
+        -1px 1px 0 #282828,
+        1px 1px 0 #282828; /* Outline effect */
+}
 .swiper-3d .swiper-slide-shadow {
     background : rgba(0, 0, 0, 0.15);
 }
