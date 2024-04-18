@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://himanshujha.xyz/</loc>
-        <lastmod>2024-04-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://himanshujha.xyz/#about</loc>
-        <lastmod>2024-04-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://himanshujha.xyz/#works</loc>
-        <lastmod>2024-04-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://himanshujha.xyz/#colophon</loc>
-        <lastmod>2024-04-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://himanshujha.xyz/</loc>
+  <lastmod>2024-04-18T06:50:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://himanshujha.xyz/index.html</loc>
+  <lastmod>2024-04-18T06:50:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://himanshujha.xyz/Himanshujha-Resume.pdf</loc>
+  <lastmod>2024-04-18T06:50:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
